@@ -3,3 +3,6 @@ body {
 	background-repeat: no-repeat;
 	background-size: contain;
 }
+h1 {
+	text-align: center;
+}
